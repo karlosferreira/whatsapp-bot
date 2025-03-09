@@ -1,0 +1,50 @@
+[
+  {
+    "datetime": "quase agora",
+    "title": "Bot automático de aposta em roletas de cassino",
+    "description": "Gostaria de desenvolver um bot que opera nas principais roletas de cassino online com os lobby evolution, playtech, pragmatic e credoonz esse bot opera 24h com stop gain e stop loss com os valores programados no martingale",
+    "clientName": "Hennedy C.",
+    "postLink": "https://www.99freelas.com.br/project/message/bot-automatico-de-aposta-em-roletas-de-cassino-630574?fs=t",
+    "timestamp": "2025-03-09T15:49:31.255Z"
+  },
+  {
+    "datetime": "quase agora",
+    "title": "Redesenhar site de logistica",
+    "description": "Preciso refazer o layout do site para algo mais moderno, é um site de logística onde o site é dividido em dois ambiente interno e externo,",
+    "clientName": "Hennedy C.",
+    "postLink": "https://www.99freelas.com.br/project/message/redesenhar-site-de-logistica-630572?fs=t",
+    "timestamp": "2025-03-09T16:08:21.446Z"
+  },
+  {
+    "datetime": "quase agora",
+    "title": "Melhoria de Funcionalidades, Correção de Bugs e Redesign do Frontend no Wha",
+    "description": "Descrição:Preciso de um desenvolvedor experiente em Node.js, React.js e MySQL para:\t1.\tMelhorar a função de agendamentos:\t•\tPermitir envio mensal recorrente.\t•\tHabilitar envio para múltiplos contatos.\t2.\tCriar a função “Aniversariantes”:\t•\tEnviar mensagens automáticas no dia do aniversário dos… Expandir contatos.\t•\tPermitir personalização das mensagens.\t3.\tMelhorar o frontend do sistema:\t•\tTornar o design mais moderno, intuitivo e responsivo.\t•\tMelhorar a usabilidade do Kanban.\t4.\tCorrigir bugs e otimizar o sistema:\t•\tIdentificar e corrigir erros.\t•\tMelhorar desempenho e estabilidade.Extras:\t•\tTenho o código-fonte disponível. As funções Agendamentos e FlowBuilder podem ser copiadas e adaptadas.Requisitos:\t•\tNode.js, React.js e MySQL.\t•\tExperiência com UI/UX e otimização de sistemas.Prazo e Orçamento:\t• A combinar Esconder",
+    "clientName": "Hennedy C.",
+    "postLink": "https://www.99freelas.com.br/project/message/melhoria-de-funcionalidades-correcao-de-bugs-e-redesign-do-frontend-no-wha-630582?fs=t",
+    "timestamp": "2025-03-09T16:16:02.523Z"
+  },
+  {
+    "datetime": "quase agora",
+    "title": "Ajustes e implementação de dashboards e automação no HubSpot",
+    "description": "A equipe de Ops, Manglai e Tech utiliza o HubSpot para gestão de tickets e acompanhamento de processos internos. No entanto, algumas limitações técnicas e de automação estão impactando a eficiência na resolução de tickets e no monitoramento de desempenho. Este projeto visa solucionar esses desafios… Expandir implementando ajustes, dashboards personalizados e fluxos de trabalho automatizados. Com isso, buscamos melhorar a gestão de tickets, reduzir o tempo de resposta e fornecer relatórios mais precisos para tomada de decisão.Descrição do projeto:Este projeto tem como objetivo aprimorar o uso do HubSpot para gestão de tickets e monitoramento de desempenho da equipe de Ops, Manglai e Tech. Serão implementadas soluções para a remoção de linhas de unsubscribe em e-mails automáticos, cronometragem precisa do tempo de resolução dos tickets, dashboards personalizados para monitoramento de KPIs e workflows automatizados para otimização dos processos.Principais tarefas:• Ajuste na remoção da linha de unsubscribe- Investigar por que a remoção da linha de \"unsubscribe\" é permitida em alguns casos e bloqueada em outros.- Desenvolver uma solução para permitir a remoção da linha nos e-mails automáticos não pertencentes a marketing.• Controle de tempo de resolução de tickets em Ops- Criar um método para calcular o tempo gasto exclusivamente pela equipe de Ops.- Implementar uma função que exclua automaticamente o tempo em que o ticket permaneceu com outras equipes (Tech e Manglai).- Garantir que, ao marcar um ticket como \"solved\", o tempo total de Ops seja corretamente identificado.• Dashboard de Ops- Criar um dashboard que permita monitorar a eficiência e o desempenho da equipe de Ops.Métricas necessárias:• Número de tickets por semana (dividido por mercado e plataforma).• Tempo de resolução por semana.• Contagem de tickets que tiveram envolvimento da equipe Tech.• Número de tickets que ultrapassaram o SLA.• Dashboard de monitoramento Manglai / Tech- Desenvolver um painel que ofereça visibilidade sobre a resolução de tickets e os tempos em cada fase do processo.Métricas necessárias:• Tempo de chegada do ticket.• Tempo total até resolução.• Tempo efetivo que o ticket permaneceu com cada equipe (Ops, Tech, Manglai).• Tempo total de resolução considerando todas as equipes envolvidas.• Workflow de automação para Manglai- Criar um fluxo de trabalho automático para tickets destinados à equipe de Manglai.Funcionalidades:• Tornar obrigatório o preenchimento de determinados campos ao criar um ticket para Manglai.• Enviar automaticamente o ticket para a equipe assim que os campos obrigatórios forem preenchidos.• Gerar um alerta/notificação quando o ticket for resolvido, garantindo que a equipe de Ops seja informada.• Avaliar a possibilidade de integração com Slack para notificação de resolução.• Dashboard de controle de support- Criar um dashboard para monitoramento do suporte e análise da performance da equipe.Métricas necessárias:• Tempo médio para fechamento de um ticket.• Número de tickets fora do SLA.• Quantidade de tickets por Account Manager (AM) e respectiva performance.Opção de geração de uma newsletter com o resumo do desempenho do departamento, incluindo:• Total de tickets resolvidos.• Total de tickets fora do SLA.• Melhor e pior performance de AM.• Comparativo com o mês anterior.Requisitos do freelancer:• Experiência com HubSpot, automação de workflows e dashboards.• Conhecimento em API do HubSpot é um diferencial.• Experiência com integração de ferramentas como Slack.• Capacidade de analisar e otimizar processos para ganho de eficiência.• Disponibilidade para reuniões de alinhamento durante o projeto.Prazos e entregáveis:• Investigação e solução da remoção da linha de unsubscribe - [Data estimada]• Implementação do controle de tempo de resolução de tickets - [Data estimada]• Criação dos dashboards (Ops, Manglai/Tech, Support) - [Data estimada]• Workflow de automação para Manglai - [Data estimada]Recursos disponíveis:• Acesso ao HubSpot para testes e desenvolvimento.• Possível integração com Slack. Esconder",
+    "clientName": "Cliente não encontrado",
+    "postLink": "https://www.99freelas.com.br/project/message/ajustes-e-implementacao-de-dashboards-e-automacao-no-hubspot-630581?fs=t",
+    "timestamp": "2025-03-09T16:24:58.716Z"
+  },
+  {
+    "datetime": "quase agora",
+    "title": "Habilidades no JET ENGINE",
+    "description": "Comprei um Templete pronto, atualmente o tema dele seria para Sister Pet, Porém preciso alterar os Formularios para Prestador de Serviços Excluir alguns atuais e mudar os demais.",
+    "clientName": "Cliente não encontrado",
+    "postLink": "https://www.99freelas.com.br/project/message/habilidades-no-jet-engine-630587?fs=t",
+    "timestamp": "2025-03-09T16:46:17.663Z"
+  },
+  {
+    "datetime": "quase agora",
+    "title": "Reconfiguração de projeto python",
+    "description": "Tenho um projeto usando python que uso na API do erp bling, porém está com erro.Preciso identificar e consertarSe trata de um atualizador de preço através da API do erp bling.",
+    "clientName": "Cliente não encontrado",
+    "postLink": "https://www.99freelas.com.br/project/message/reconfiguracao-de-projeto-python-630589?fs=t",
+    "timestamp": "2025-03-09T16:47:59.624Z"
+  }
+]
