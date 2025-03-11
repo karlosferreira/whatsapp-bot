@@ -2,6 +2,8 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
     "puppeteer": "^24.4.0",
     "qrcode-terminal": "^0.12.0",
     "react": "^18.2.0",
@@ -15,7 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "99freelas": "node scripts/99freelas.mjs",
-    "whatsapp": "node scripts/whatsapp.mjs"
+    "whatsapp": "node scripts/whatsapp.mjs",
+    "blackbox": "node scripts/blackbox.mjs",
+    "sender": "node scripts/sender.mjs"
   },
   "browserslist": {
     "production": [
