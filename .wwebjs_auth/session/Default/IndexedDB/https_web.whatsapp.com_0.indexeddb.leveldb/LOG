@@ -1,4 +1,0 @@
-2025/03/09-21:03:54.209 beaa Creating DB /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2025/03/09-21:03:54.228 beaa Reusing MANIFEST /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/09-21:03:54.894 beb0 Level-0 table #5: started
-2025/03/09-21:03:54.908 beb0 Level-0 table #5: 9817 bytes OK

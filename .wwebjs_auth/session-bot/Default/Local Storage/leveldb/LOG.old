@@ -1,6 +1,3 @@
-2025/03/10-19:33:39.308 957a Reusing MANIFEST /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/Local Storage/leveldb/MANIFEST-000001
-2025/03/10-19:33:39.309 957a Recovering log #32
-2025/03/10-19:33:39.309 957a Reusing old log /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/Local Storage/leveldb/000032.log 
-2025/03/10-19:34:39.691 9583 Level-0 table #36: started
-2025/03/10-19:34:39.698 9583 Level-0 table #36: 13627 bytes OK
-2025/03/10-19:34:39.707 9583 Delete type=0 #32
+2025/06/13-10:53:05.114 37d8 Reusing MANIFEST /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/Local Storage/leveldb/MANIFEST-000001
+2025/06/13-10:53:05.115 37d8 Recovering log #3
+2025/06/13-10:53:05.115 37d8 Reusing old log /home/home/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/Local Storage/leveldb/000003.log 

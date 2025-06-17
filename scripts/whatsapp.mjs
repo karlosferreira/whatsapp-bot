@@ -7,7 +7,7 @@ const require = createRequire(import.meta.url);
 const { Client, LocalAuth, Buttons } = require("whatsapp-web.js");
 
 // Número de destino no formato internacional
-const numeroDestino = "5521976042194"; // Apenas o número
+const numeroDestino = "5521975154746"; // Apenas o número
 const cadastroPath = path.resolve("public/cadastro.json");
 const enviadosPath = path.resolve("public/enviados.json");
 
@@ -65,6 +65,7 @@ const verificarEEnviarMensagens = async () => {
 
         // Enviar cada nova mensagem com um intervalo entre elas
         for (const cadastro of novosCadastros) {
+            
             const mensagem = `📌 *${cadastro.title}*\n\n📄 ${cadastro.description}...\n\n🔗 ${cadastro.postLink}`;
 
             await client.sendMessage(numeroId._serialized, mensagem);

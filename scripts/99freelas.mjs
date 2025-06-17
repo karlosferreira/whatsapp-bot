@@ -30,6 +30,9 @@ const scrapeJob = async (page) => {
     const jobData = await page.evaluate(() => {
       const title = document.querySelector('h1.title a')?.textContent.trim() || 'Título não encontrado';
       const description = document.querySelector('.item-text.description')?.textContent.trim() || 'Descrição não encontrada';
+      
+      description.replace('… Expandir', '').textContent.trim();
+      
       const clientName = document.querySelector('p.item-text.client a')?.textContent.trim() || 'Cliente não encontrado';
       const link = document.querySelector('h1.title a')?.href || 'Link não encontrado';
       const postLink = link.replace('/project/', '/project/message/');
