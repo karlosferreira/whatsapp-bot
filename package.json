@@ -19,6 +19,7 @@
     "99freelas": "node scripts/99freelas.mjs",
     "whatsapp": "node scripts/whatsapp.mjs",
     "blackbox": "node scripts/blackbox.mjs",
+    "bot": "node scripts/bot.mjs",
     "sender": "node scripts/sender.mjs"
   },
   "browserslist": {
