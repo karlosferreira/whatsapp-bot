@@ -12,15 +12,7 @@
     "whatsapp-web.js": "^1.26.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "99freelas": "node scripts/99freelas.mjs",
-    "whatsapp": "node scripts/whatsapp.mjs",
-    "blackbox": "node scripts/blackbox.mjs",
-    "bot": "node scripts/bot.mjs",
-    "sender": "node scripts/sender.mjs"
+    "core": "node scripts/core.mjs"
   },
   "browserslist": {
     "production": [

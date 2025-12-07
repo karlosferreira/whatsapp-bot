@@ -1,9 +1,0 @@
-2025/12/06-07:52:47.667 1bf20b Reusing MANIFEST /home/kyrvim/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/06-07:52:47.669 1bf20b Recovering log #102
-2025/12/06-07:52:47.669 1bf20b Reusing old log /home/kyrvim/Workspace/whatsapp-bot/.wwebjs_auth/session-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000102.log 
-2025/12/06-07:52:47.669 1bf20b Delete type=2 #103
-2025/12/06-07:52:47.669 1bf20b Delete type=2 #101
-2025/12/06-07:52:47.810 1bf20d Level-0 table #107: started
-2025/12/06-07:52:47.869 1bf20d Level-0 table #107: 336 bytes OK
-2025/12/06-07:52:47.920 1bf20d Delete type=0 #102
-2025/12/06-07:52:47.923 1bf20d Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
